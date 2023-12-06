@@ -1,4 +1,4 @@
-# Sub Sequence
+# Check Sub Sequence
 
 This Questions Gives us 2 array  of nonempty integers. we have to write a dunction to check if the 2nd array is a valid subsequence of the first array.
 
