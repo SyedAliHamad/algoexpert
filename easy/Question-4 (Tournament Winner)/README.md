@@ -1,7 +1,7 @@
 # Tournamnet Winner
 
-We are given an 2d array with mathces played between different parties in a tournamnet. We have another Array of results which gives us the result of thse matches.
-We need to Print out the team which won the tournement.
+We are given an 2d array with matches played between different parties in a tournament. We have another Array of results which gives us the result of thse matches.
+We need to Print out the team which won the tournament.
 
 ## Example
 
