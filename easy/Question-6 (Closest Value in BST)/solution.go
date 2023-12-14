@@ -28,7 +28,6 @@ func (n *Node) Insert(value int) *Node {
 func closestValueBST(value int, root *Node) int {
 
 	for true {
-
 		if value>root.Value{
 			if root.Right==nil{
 				return root.Value
@@ -43,6 +42,7 @@ func closestValueBST(value int, root *Node) int {
 			return root.Value
 		}
 	}
+
 	return 0
 }
 
