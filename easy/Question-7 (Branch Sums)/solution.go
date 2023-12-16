@@ -1,6 +1,10 @@
 package main
 
+import "log"
+
 func main() {
- int main 
-	
+	var main int
+	main = 0
+	log.Println(main)
+
 }
