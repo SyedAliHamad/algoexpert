@@ -1,6 +1,6 @@
 # Branch Sums
 
-Given a Binary Search Tree return an array which shows us the sum of all the branches present in the tree
+Given a Binary Search Tree return an array which shows us the sum of all the branches present in the tree.
 
 ## Example
             10
@@ -17,4 +17,4 @@ We have 4 branches in total
         3: 10-15-13-14
         4: 10-15-22
 
-return array is: [18,20,52,57]
+return array is: [18,20,52,47]
